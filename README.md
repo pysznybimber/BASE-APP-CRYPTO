@@ -1,0 +1,2 @@
+# BASE-APP-CRYPTO
+MY BASE CRYPTO APP - ETC and BTC compiler
